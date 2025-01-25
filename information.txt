@@ -1,1 +1,1 @@
-Hola, me llamo Erika.
+Hola, me llamo Erika y estoy aprendiendo a usar Git.
